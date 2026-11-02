@@ -1585,6 +1585,10 @@ h3 {
   transform: rotate(1deg);
 }
 
+.ryan-photo-slot.ryan-headshot {
+  aspect-ratio: 1;
+}
+
 .ryan-photo-slot img {
   display: block;
   width: 100%;
